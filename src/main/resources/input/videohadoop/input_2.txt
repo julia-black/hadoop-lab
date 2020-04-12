@@ -1,0 +1,1 @@
+src/main/resources/input/videowatermark/input_video.mp4 2 src/main/resources/output/videohadoop/video_output_2.mp4
